@@ -12,6 +12,8 @@ import java.util.UUID;
  * Created by lance on 2017/2/10.
  */
 public class RocketMQConsumer {
+    
+    //在云端修改
 
     private DefaultMQPushConsumer consumer;
 
