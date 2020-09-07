@@ -4,7 +4,7 @@ package com.lance.rocketMQ.RocketMQ;
  * Created by lance on 2017/2/10. 
  */  
 
-//dev97 test
+//dev97 test 11
 public class RocketMQConsumerTest {  
   
   
